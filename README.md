@@ -1,6 +1,6 @@
 # Totem-Fast-Charger
 
-#Sequencia de telas
+## SEQUENCIA DAS TELAS
 
 2 – Tela inicial parecida com o que temos hoje, mostrando os compartimentos livres e
 ocupados, com dois botões, carregar e retirar.
@@ -15,7 +15,7 @@ temos hoje, escrito conecte seu celular e feche o compartimento, mas acho que pa
 problema que temos hoje, precisamos criar a ordem desse ponto. Na tela, embaixo das imagens, teria escrito, A RECARGA DE SEU CELULAR INICIARÁ DEPOIS DE FECHADO O COMPARTIMENTO. E o totem só poderá dar energia com a porta devidamente fechada. (Acho que essa tela pode ter um temporizador de 90 segundos com contagem regressiva maior do que temos hoje, piscando) Caso passe os 90 segundos e a pessoa não fechou a porta, mudaria para uma tela escrito TEMPO ESGOTADO, refaça o procedimento
 (Uma tela de 10 segundos). Acho legal assim que a porta for fechada (Acredito que nesse momento podemos incluir a questão da foto), mudar a tela para algo tipo Reconhecendo...... e assim que reconhecido mudar a tela para: OK! Seu celular está recarregando (Talvez por 5 segundos apenas). Caso não reconheca o celular, aparecer uma tela com uma imagem chamativa dizendo ERRO! Nenhum celular detectado e enquanto isso a porta se abre novamente.
 
-# RETIRAR:
+## RETIRAR:
 
 1 – Tela inicial citada a cima
 
@@ -30,7 +30,7 @@ problema que temos hoje, precisamos criar a ordem desse ponto. Na tela, embaixo 
 6 – Tela semelhante ao que temos hoje dizendo para retirar o celular e fechar o
 compartimento.
 
-#Menu master
+## MENU MASTER
 
 Para acessar o menu máster, o correto seria uma forma parecida com o que temos hoje, para que ninguém acesse sem querer. Minha ideia é ter 2 senhas másters. A primeira inalterável, que só a Fast Charger tenha, e a segunda uma senha que possamos alterar e passar para cada cliente. Isso seria possível?
 
